@@ -1,0 +1,6 @@
+# Nginx Filebeat
+
+Example nginx-filebeat for [ELK](https://github.com/spujadas/elk-docker)
+
+* http://elk-docker.readthedocs.io/#forwarding-logs-filebeat
+* https://github.com/spujadas/elk-docker/tree/master/nginx-filebeat
